@@ -16,7 +16,7 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-prelude": "^5.0.0",
-    "purescript-type-equality": "^4.0.0"
+    "purescript-prelude": "https://github.com/working-group-purescript-es/purescript-prelude.git#es-modules",
+    "purescript-type-equality": "https://github.com/working-group-purescript-es/purescript-type-equality.git#es-modules"
   }
 }
